@@ -1,16 +1,16 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ani Emmanuel Emeka! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://avatars.githubusercontent.com/u/136162118?s=400&u=3459812399666f3b229409df80285342bfecea4d&v=4)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software engineer/Full stack** with experience in **html/java script/css/react/express.js/data base**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **css/java script/react**
+- 🔭 Working on: **current projects or side-projects**
+- 🌍 Languages: **html/java script/react. English, Yoruba, Igbo**
+- 📫 How to reach me: **emmanuelani2002@gmail.com**
+- ⚡ Fun fact: **I'm a technology enthusiast, I love coding.**
 
 ## My Skills 🧠
 
@@ -34,10 +34,10 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **skills demonstrated by the project**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+
+- **https://www.linkedin.com/in/emmanuel-ani-489ab22bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app**
+- ****
