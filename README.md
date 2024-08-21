@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Software engineer/Full stack** with experience in **html/java script/css/react/express.js/data base**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software engineer/Full stack** with experience in **html/java script/css/react/express.js/data base/node.js**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **css/java script/react**
 - 🔭 Working on: **current projects or side-projects**
