@@ -41,3 +41,4 @@ I'm a passionate **Software engineer/Full stack** with experience in **html/java
 
 - **https://www.linkedin.com/in/emmanuel-ani-489ab22bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app**
 **https://www.facebook.com/emmanuel.ani.56884761?mibextid=LQQJ4d**
+  **https://x.com/Cosmostar00**
